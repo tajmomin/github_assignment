@@ -1,1 +1,2 @@
 These are my project notes.
+This is an edit made from the cloned folder.
